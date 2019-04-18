@@ -1,0 +1,10 @@
+x = input('How old are you?')
+y = int(x)
+if y < 10
+   print('Well, you're quite an ambitious youngerster, aren't ya?')
+elif y > 20
+   print('Awesome! Let's get started.')
+else y >= 21
+   print('It's never too late to learn!')
+
+print('You're amazing.)
